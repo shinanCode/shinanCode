@@ -41,7 +41,6 @@ Desktop.ini
 
 # IDE/编辑器配置
 .vscode/*
-.github
 .idea/
 *.suo
 *.ntvs*
